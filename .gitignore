@@ -1,0 +1,15 @@
+logs
+project/project
+project/target
+target
+tmp
+.history
+dist
+projectmanager/.idea
+projectmanager/*.iml
+projectmanager/out
+projectmanager/.idea_modules
+projectmanager/.classpath
+projectmanager/.project
+projectmanager/RUNNING_PID
+projectmanager/.settings
